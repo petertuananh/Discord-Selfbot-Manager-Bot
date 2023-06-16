@@ -1,0 +1,34 @@
+{
+  "prods": [
+    {
+      "id": "5139998373",
+      "dirName": "lUPBOXnVMt",
+      "port": "9776",
+      "token": "MTEwNzI1Mjk3ODM1Nzg5NTE2OA.GG5hZJ.FtGtJcHlYE_TOdhstY2jsnHVDNoG1idRSzjbe4"
+    },
+    {
+      "id": "1752262323",
+      "dirName": "KVNXeJqqia",
+      "port": "8691",
+      "token": "MTEwNDMyMzQyODQ1MTg4OTI1Mg.GA8TkI.Tfi36f6RAeKaQZLVPo64e4mdpI6ibI6bubC-CE"
+    },
+    {
+      "id": "5137039605",
+      "dirName": "5wNjBoWZkN",
+      "port": "4860",
+      "token": "MTEwNjc3ODU2MDczNzMxNjg3NA.GHO-at.q0B-W_EHf4WGvJQgd9Qvqg1xcooPsQQg5oDvqs"
+    },
+    {
+      "id": "1904427991",
+      "dirName": "O2ktsT5aKe",
+      "port": "8912",
+      "token": "MTEwNjc1MjI0NDg0MzU1Njg2NA.GjBW1X.PHzQ8QrxLsUecR0RRYAwk_X08zndVSswrtpurI"
+    },
+    {
+      "id": "0259883365",
+      "dirName": "RL7zQWWp3w",
+      "port": "5916",
+      "token": "MTEwNDc1NTYwNDMwNTc2MDM4MA.GBbC6z.YIkCrWOyjMqRzyOMpYdmLK4xc4jJVHBg0RSpTQ"
+    }
+  ]
+}

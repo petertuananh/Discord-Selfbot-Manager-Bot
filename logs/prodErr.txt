@@ -1,0 +1,230 @@
+[12:11 PM]: Token MTEwNjc1MjI0NDg0MzU1Njg2NA.GjBW1X.PHzQ8QrxLsUecR0RRYAwk_X08zndVSswrtpurI:
+Error: Command failed: node ./prods/MxOJWo8PFa/client.js
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'discord.js-selfbot-v13'
+Require stack:
+- /root/TBot/prods/MxOJWo8PFa/client.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/root/TBot/prods/MxOJWo8PFa/client.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/TBot/prods/MxOJWo8PFa/client.js' ]
+}
+
+[12:11 PM]: Token MTEwNjc3ODU2MDczNzMxNjg3NA.GHO-at.q0B-W_EHf4WGvJQgd9Qvqg1xcooPsQQg5oDvqs:
+Error: Command failed: node ./prods/Y0gBhMc78Q/client.js
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'discord.js-selfbot-v13'
+Require stack:
+- /root/TBot/prods/Y0gBhMc78Q/client.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/root/TBot/prods/Y0gBhMc78Q/client.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/TBot/prods/Y0gBhMc78Q/client.js' ]
+}
+
+[12:11 PM]: Token MTEwNzI1Mjk3ODM1Nzg5NTE2OA.GG5hZJ.FtGtJcHlYE_TOdhstY2jsnHVDNoG1idRSzjbe4:
+Error: Command failed: node ./prods/5WLa0m5fSQ/client.js
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'discord.js-selfbot-v13'
+Require stack:
+- /root/TBot/prods/5WLa0m5fSQ/client.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/root/TBot/prods/5WLa0m5fSQ/client.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/TBot/prods/5WLa0m5fSQ/client.js' ]
+}
+
+[12:11 PM]: Token MTEwNDc1NTYwNDMwNTc2MDM4MA.GBbC6z.YIkCrWOyjMqRzyOMpYdmLK4xc4jJVHBg0RSpTQ:
+Error: Command failed: node ./prods/okYQ1lF20y/client.js
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'discord.js-selfbot-v13'
+Require stack:
+- /root/TBot/prods/okYQ1lF20y/client.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/root/TBot/prods/okYQ1lF20y/client.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/TBot/prods/okYQ1lF20y/client.js' ]
+}
+
+[12:11 PM]: Token MTEwNDMyMzQyODQ1MTg4OTI1Mg.GA8TkI.Tfi36f6RAeKaQZLVPo64e4mdpI6ibI6bubC-CE:
+Error: Command failed: node ./prods/x0uMPtatcW/client.js
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'discord.js-selfbot-v13'
+Require stack:
+- /root/TBot/prods/x0uMPtatcW/client.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/root/TBot/prods/x0uMPtatcW/client.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/TBot/prods/x0uMPtatcW/client.js' ]
+}
+
+[12:15 PM]: Token MTEwNjc1MjI0NDg0MzU1Njg2NA.GjBW1X.PHzQ8QrxLsUecR0RRYAwk_X08zndVSswrtpurI:
+Error: Command failed: node ./prods/Hl9xC1EckB/client.js
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'discord.js-selfbot-v13'
+Require stack:
+- /root/TBot/prods/Hl9xC1EckB/client.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/root/TBot/prods/Hl9xC1EckB/client.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/TBot/prods/Hl9xC1EckB/client.js' ]
+}
+
+[12:15 PM]: Token MTEwNDc1NTYwNDMwNTc2MDM4MA.GBbC6z.YIkCrWOyjMqRzyOMpYdmLK4xc4jJVHBg0RSpTQ:
+Error: Command failed: node ./prods/P0Q6VXcCxx/client.js
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'discord.js-selfbot-v13'
+Require stack:
+- /root/TBot/prods/P0Q6VXcCxx/client.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/root/TBot/prods/P0Q6VXcCxx/client.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/TBot/prods/P0Q6VXcCxx/client.js' ]
+}
+
+[12:15 PM]: Token MTEwNzI1Mjk3ODM1Nzg5NTE2OA.GG5hZJ.FtGtJcHlYE_TOdhstY2jsnHVDNoG1idRSzjbe4:
+Error: Command failed: node ./prods/LY2renrtWg/client.js
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'discord.js-selfbot-v13'
+Require stack:
+- /root/TBot/prods/LY2renrtWg/client.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/root/TBot/prods/LY2renrtWg/client.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/TBot/prods/LY2renrtWg/client.js' ]
+}
+
+[12:15 PM]: Token MTEwNDMyMzQyODQ1MTg4OTI1Mg.GA8TkI.Tfi36f6RAeKaQZLVPo64e4mdpI6ibI6bubC-CE:
+Error: Command failed: node ./prods/viCrmXwGdZ/client.js
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'discord.js-selfbot-v13'
+Require stack:
+- /root/TBot/prods/viCrmXwGdZ/client.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/root/TBot/prods/viCrmXwGdZ/client.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/TBot/prods/viCrmXwGdZ/client.js' ]
+}
+
+[12:15 PM]: Token MTEwNjc3ODU2MDczNzMxNjg3NA.GHO-at.q0B-W_EHf4WGvJQgd9Qvqg1xcooPsQQg5oDvqs:
+Error: Command failed: node ./prods/zeuONLsWHx/client.js
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'discord.js-selfbot-v13'
+Require stack:
+- /root/TBot/prods/zeuONLsWHx/client.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/root/TBot/prods/zeuONLsWHx/client.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/TBot/prods/zeuONLsWHx/client.js' ]
+}
+

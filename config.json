@@ -1,0 +1,43 @@
+{
+    "client": {
+        "id": "1117727884732276796",
+        "token": "MTExNzcyNzg4NDczMjI3Njc5Ng.GXzxNx.YEZvDGMLcxPKKHH_0npwZC5xokZ0IBNsEmwy2M",
+        "secret": "mDg54CBD-0bLAejrEeKyxSpv_gVH4AsH",
+        "callbackURL": "http://14.187.120.209:7777/auth/callback",
+        "shards": "auto",
+        "presence": {
+            "phone": false,
+            "status": "dnd",
+            "activity": "the third eye 👀"
+        }
+    },
+    "statics": {
+        "secretKey": "sH2IbZZXV4gHWLf-9yiHzT3DuYCnrI1w",
+        "executor": ["786569661231005716", "503470783213993987", "899496792566169621"],
+        "prefix": ".",
+        "guildId": "1016726367108333690",
+        "channels": {
+            "music": "1061236738334400553",
+            "note": "1086342298306105435",
+            "confession": "1079775560680624138"
+        },
+        "roles": {}
+    },
+    "server": {
+        "port": 3000
+    },
+    "database": {
+        "mysql": {
+            "host": "localhost",
+            "port" : 3306,
+            "user": "selfbot_manager",
+            "password": "6py_7jOB_op/huk1",
+            "database": "selfbot_manager",
+            "supportBigNumbers": true,
+            "bigNumberStrings": true,
+            "multipleStatements": true,
+            "charset": "utf8mb4_general_ci",
+            "connectionLimit" : 1
+        }
+    }
+}
